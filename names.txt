@@ -3,3 +3,6 @@ hone
 lunar
 reread
 recite
+mellow
+phase
+calmview
